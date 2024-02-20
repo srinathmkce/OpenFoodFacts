@@ -1,0 +1,12 @@
+pandas
+plotly
+seaborn
+sklearn
+bertopic
+tqdm
+numpy
+nltk
+torchdata
+lightning
+torch
+transformers
